@@ -1,0 +1,11 @@
+id,hypothesis,P_classical,interval,T,I,F,ns_zone,ground_truth_zone,classical_correct,ns_correct,T_plus_F,paraconsistent
+H1,Unemployment increases urban violence,0.62,"[0.47, 0.77]",0.58,0.33,0.08,Consensus,Ambiguity,False,False,0.66,False
+H2,Gangs directly raise urban violence,0.88,"[0.73, 1.00]",0.9,0.0,0.1,Consensus,Consensus,True,True,1.0,False
+H3,Deficient legal system enables violence,0.68,"[0.53, 0.83]",0.7,0.15,0.2,Consensus,Consensus,True,True,0.9,False
+H4,Poverty directly causes violent crime,0.58,"[0.43, 0.73]",0.55,0.2,0.4,Contradiction,Contradiction,False,True,0.95,False
+H5,Income inequality increases violence,0.55,"[0.40, 0.70]",0.6,0.3,0.35,Contradiction,Contradiction,False,True,0.95,False
+H6,AI tutoring improves K-12 outcomes (Alpha School model),0.6,"[0.45, 0.75]",0.65,0.55,0.1,Ambiguity,Ambiguity,False,True,0.75,False
+H7,Remote work increases productivity,0.5,"[0.35, 0.65]",0.55,0.25,0.55,Contradiction,Contradiction,False,True,1.1,True
+H8,Coffee is good for health,0.6,"[0.45, 0.75]",0.7,0.3,0.45,Contradiction,Contradiction,False,True,1.15,True
+H9,Quantum computing will break encryption within 5 years,0.35,"[0.20, 0.50]",0.3,0.65,0.25,Ambiguity,Ambiguity,False,True,0.55,False
+H10,Prevalence of Chagas disease in Manabi province is 2.3%,0.4,"[0.25, 0.55]",0.15,0.75,0.1,Ignorance,Ignorance,False,True,0.25,False

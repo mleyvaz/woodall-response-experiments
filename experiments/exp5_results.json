@@ -1,0 +1,9 @@
+{
+  "elasticity": [
+    {
+      "n": 30,
+      "mean_F_classical": 3.0473171180810867,
+      "mean_F_ns": 3.0473171180810867,
+      "F_difference": 0.0,
+      "p_difference": 0.0,
+      "converged": 
